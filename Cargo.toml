@@ -1,0 +1,16 @@
+[package]
+name = "cooltek-sdk-probe"
+version = "0.1.0"
+authors = ["Josiah Egner <projectzero7@gmail.com>"]
+edition = "2024"
+keywords = ["cooler master", "cooltek", "masterhub"]
+license = "MIT"
+repository = "https://github.com/projectzero7/cooltek-sdk-probe"
+rust-version = "1.96.0"
+
+[dependencies]
+hidapi = { version = "2.6.6", features = ["macos-shared-device"] }
+serde = { version = "1.0.228", features = ["derive"] }
+serde_json = "1.0.150"
+url = { version = "2.5.8", features = ["serde"] }
+uuid = { version = "1.23.4", features = ["serde"] }

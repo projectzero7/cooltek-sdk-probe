@@ -1,0 +1,11 @@
+# Rust binaries
+src/main.rs
+
+# Rust build artifacts
+/target
+
+# Firmware dumps, Wireshark traces, and other reverse-engineering artifacts
+/resources
+
+# macOS-specific files
+.DS_Store
