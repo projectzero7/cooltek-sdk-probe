@@ -30,9 +30,14 @@ Module abbreviations are as follows:
 
 | Module | Name | Abbreviation |
 | --- | --- | --- |
+| M003K | 3xKnob | KB |
 | M0064 | Base | BS |
 
 ## Known model numbers
+
+### M003K
+
+* MHKB03AA22
 
 ### M0064
 
