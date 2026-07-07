@@ -28,6 +28,7 @@ Unknown UUIDs appear to return an `HTTP 200` with an empty JSON body.
 * [M003K](https://dev.pms.masterctrl.coolermaster.com/api/devices/1f7b995d-ee2f-5705-a07f-381a8ffcd2ac/firmwares/stable)
 * [M005S](https://dev.pms.masterctrl.coolermaster.com/api/devices/6ceb80f4-15f0-5892-b987-f0159817bd21/firmwares/stable)
 * [M0064](https://dev.pms.masterctrl.coolermaster.com/api/devices/ebf5c18b-0386-5dba-ba01-498ffdae2908/firmwares/stable)
+* [M032LE](https://dev.pms.masterctrl.coolermaster.com/api/devices/669a0142-86f2-556e-8206-18a1bb3e0af9/firmwares/stable)
 
 ## Downloading firmware versions
 
@@ -66,3 +67,11 @@ Unknown UUIDs and versions here return an `HTTP 403` with the following XML:
 * [2.0.1.0](https://dev.pms.masterctrl.coolermaster.com/assets/devices/ebf5c18b-0386-5dba-ba01-498ffdae2908/firmwares/2.0.1.0.sys)
 * [2.0.3.0](https://dev.pms.masterctrl.coolermaster.com/assets/devices/ebf5c18b-0386-5dba-ba01-498ffdae2908/firmwares/2.0.3.0.sys)
 * [2.0.4.0](https://dev.pms.masterctrl.coolermaster.com/assets/devices/ebf5c18b-0386-5dba-ba01-498ffdae2908/firmwares/2.0.4.0.sys)
+
+#### M032LE
+
+* [1.0.0.0](https://dev.pms.masterctrl.coolermaster.com/assets/devices/669a0142-86f2-556e-8206-18a1bb3e0af9/firmwares/1.0.0.0.sys)
+* [1.0.0.1](https://dev.pms.masterctrl.coolermaster.com/assets/devices/669a0142-86f2-556e-8206-18a1bb3e0af9/firmwares/1.0.0.1.sys)
+* [1.0.1.0](https://dev.pms.masterctrl.coolermaster.com/assets/devices/669a0142-86f2-556e-8206-18a1bb3e0af9/firmwares/1.0.1.0.sys)
+* [1.0.2.0](https://dev.pms.masterctrl.coolermaster.com/assets/devices/669a0142-86f2-556e-8206-18a1bb3e0af9/firmwares/1.0.2.0.sys)
+* [1.0.3.1](https://dev.pms.masterctrl.coolermaster.com/assets/devices/669a0142-86f2-556e-8206-18a1bb3e0af9/firmwares/1.0.3.1.sys)

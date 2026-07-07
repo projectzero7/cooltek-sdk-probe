@@ -33,6 +33,7 @@ Module abbreviations are as follows:
 | M003K | 3xKnob | KB |
 | M005S | 5xFader | FD |
 | M0064 | Base | BS |
+| M032LE | 2xRoller | RR |
 
 ## Known model numbers
 
@@ -47,3 +48,7 @@ Module abbreviations are as follows:
 ### M0064
 
 * MHBS01AA46
+
+### M032LE
+
+* MHRR02AA41
