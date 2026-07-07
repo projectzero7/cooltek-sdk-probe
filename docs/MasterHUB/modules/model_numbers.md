@@ -34,6 +34,7 @@ Module abbreviations are as follows:
 | M005S | 5xFader | FD |
 | M0064 | Base | BS |
 | M032LE | 2xRoller | RR |
+| M4315 | 15xKey w/ IPS | KD |
 
 ## Known model numbers
 
@@ -52,3 +53,7 @@ Module abbreviations are as follows:
 ### M032LE
 
 * MHRR02AA41
+
+### M4315
+
+* MHKD15AA43
